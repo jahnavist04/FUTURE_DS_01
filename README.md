@@ -1,6 +1,6 @@
 # E-Commerce Sales Analytics Dashboard – Task 1
 
-![Dashboard Preview]()
+![Dashboard Preview](https://futureinterns.com/wp-content/uploads/2025/12/DS-Task-1-.png)
 
 ---
 
