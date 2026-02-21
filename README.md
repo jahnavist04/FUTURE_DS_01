@@ -102,3 +102,8 @@ The layout is structured to highlight KPIs at the top and detailed analysis belo
 ## 🚀 Conclusion
 
 This dashboard demonstrates how raw e-commerce data can be transformed into actionable insights using visualization tools. It provides a structured and interactive way for businesses to monitor performance, identify growth opportunities, and optimize decision-making strategies.
+
+---
+
+**Author:** [Jahnavi S T]  
+**Date:** [21-02-2026]  
